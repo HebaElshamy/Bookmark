@@ -1,0 +1,89 @@
+.bookmark
+{
+    color: rgb(170, 170, 170);
+   
+    border-bottom: 1px solid rgb(153, 153, 153);
+}
+.bookmarkCaption
+{
+    background-color: rgb(238, 238, 238);
+    text-align: center;
+    padding: 30px;
+    
+    
+}
+.oneRow h3
+{
+    width: 30%;
+    color: #333;
+   
+
+   
+    /* background-color: blueviolet; */
+    font-size: 24;
+}
+.oneRow span
+{
+    width: 15%;
+    /* background-color: brown; */
+    color: #333;
+}
+.oneRow 
+{
+    background-image: linear-gradient(#EEE,#FFF);
+    /* margin: 10px 0; */
+    padding: 20px;
+    
+}
+footer .container
+{
+    padding: 20px;
+    border-top: 1px solid #999;
+    font-size: 14px;
+    color: #AAA;
+    
+}
+footer .container p
+{
+    color: #AAA;
+}
+p
+{
+    color: #333;
+    font-weight: bold;
+}
+.btn-primary:hover {
+	background-color:#0a3f77;
+	border: 1px solid #0a3f77;
+    box-shadow: 2px 5px 3px 0px #888;
+}
+.btn-danger:hover {
+    background-color:#510d0e;
+	border: 1px solid #510d0e;
+    box-shadow: 2px 5px 3px 0px #888;
+}
+/*////////////////////////////*/
+.alert {
+	padding:5px;
+	margin:10px;
+	
+	font-size:18px;
+	border-radius:5px;
+	text-align:center;
+}
+.alert-error {
+	background-color:#ffb2b2;
+	color:#6d0000;
+	border:1px solid #6d0000;
+}
+
+#nameError
+{
+    display: none;
+}
+#urlError
+{
+    display: none;
+}
+
+
